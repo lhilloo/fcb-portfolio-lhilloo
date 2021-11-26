@@ -35,7 +35,7 @@ ul {
 }
 
 h2 {
-	color: #007bff;
+	color: #2a9d8f;
 }
 
 .tools {
@@ -44,6 +44,10 @@ h2 {
 	width: 75%;
 	padding: 25px;
 	margin: 20px;
+}
+
+.bg-custom {
+	background-color: #264653;
 }
 
 html {
